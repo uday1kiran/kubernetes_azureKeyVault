@@ -5,3 +5,6 @@
 
 
 Ref: https://www.youtube.com/watch?v=KGjxZmlb4Bo
+
+azure vault secretes store csi driver walkthrough:
+https://azure.github.io/secrets-store-csi-driver-provider-azure/demos/standard-walkthrough/
